@@ -1,0 +1,9 @@
+{
+  "appId": "com.smarthomeaipro.app",
+  "appName": "SMART HOME AI PRO",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name":"SMART HOME AI PRO",
+  "short_name":"SMART HOME AI",
+  "start_url":"./",
+  "scope":"./",
+  "display":"standalone",
+  "background_color":"#090611",
+  "theme_color":"#160923",
+  "description":"إدارة ذكية لمصاريف المنزل",
+  "lang":"ar",
+  "dir":"rtl"
+}
